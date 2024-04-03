@@ -1,6 +1,7 @@
 # AI_project
 link do dysku ze sprawkiem w doc:
-https://drive.google.com/drive/folders/1G00tKqxuPlrS7eQCE5UYKtvl4SajMDwA?usp=sharing
+https://docs.google.com/document/d/1tVWMorksfXvIkRNl6mlhYsc7PJ2dfgAYuHS3lOuL_nM/edit
+> https://drive.google.com/drive/folders/1G00tKqxuPlrS7eQCE5UYKtvl4SajMDwA?usp=sharing
  
 link  do danych:
 https://www.kaggle.com/veeralakrishna/predict-demand?fbclid=IwAR13ksfjWWGX27PmH6tyAkjMRwRPfQkGdzDVm6r8ZlGqEivFJKLGMLQgvaw
